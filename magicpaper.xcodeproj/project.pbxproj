@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		901B3D3A27AFDA97003303CC /* harrypotter_newspaper.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 901B3D3927AFDA97003303CC /* harrypotter_newspaper.jpeg */; };
 		90E1D06727AE01D100020C62 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E1D06627AE01D100020C62 /* AppDelegate.swift */; };
 		90E1D06927AE01D100020C62 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 90E1D06827AE01D100020C62 /* art.scnassets */; };
 		90E1D06B27AE01D100020C62 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E1D06A27AE01D100020C62 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		901B3D3927AFDA97003303CC /* harrypotter_newspaper.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harrypotter_newspaper.jpeg; sourceTree = "<group>"; };
 		90E1D06327AE01D100020C62 /* magicpaper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = magicpaper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		90E1D06627AE01D100020C62 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		90E1D06827AE01D100020C62 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 		90E1D06527AE01D100020C62 /* magicpaper */ = {
 			isa = PBXGroup;
 			children = (
+				901B3D3927AFDA97003303CC /* harrypotter_newspaper.jpeg */,
 				90E1D07A27AE030A00020C62 /* harrypotter.mp4 */,
 				90E1D06627AE01D100020C62 /* AppDelegate.swift */,
 				90E1D06827AE01D100020C62 /* art.scnassets */,
@@ -131,6 +134,7 @@
 				90E1D07327AE01D300020C62 /* LaunchScreen.storyboard in Resources */,
 				90E1D07B27AE030A00020C62 /* harrypotter.mp4 in Resources */,
 				90E1D07027AE01D300020C62 /* Assets.xcassets in Resources */,
+				901B3D3A27AFDA97003303CC /* harrypotter_newspaper.jpeg in Resources */,
 				90E1D06E27AE01D100020C62 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
